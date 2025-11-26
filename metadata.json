@@ -1,0 +1,5 @@
+{
+  "name": "AutoDeploy AI",
+  "description": "Intelligent project analyzer and GitHub deployer. Analyzes local folders, generates Coolify-ready Dockerfiles, and pushes to GitHub.",
+  "requestFramePermissions": []
+}
